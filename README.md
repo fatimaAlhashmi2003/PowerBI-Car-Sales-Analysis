@@ -52,3 +52,20 @@ This was a learning and assessment project. I implemented the report using the c
 ## About This Repository
 
 This repository presents the project through documentation and screenshots. The Power BI (.pbix) file and underlying dataset are not included.
+
+## Project Screenshots
+
+### Summary
+![Sales summary](summary.png)
+
+### Manufacturer Analysis
+![Manufacturer analysis](manufacturer-analysis.png)
+
+### Sales Performance Analysis
+![Sales performance analysis](sales-performance.png)
+
+### Salesperson Analysis
+![Salesperson analysis](salesperson-analysis.png)
+
+### Data Model
+![Data tables and relationships](data-model.png)
